@@ -1,0 +1,2 @@
+# serverless_dingding_alarm
+钉钉告警中转server
