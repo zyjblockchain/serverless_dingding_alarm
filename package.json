@@ -1,0 +1,23 @@
+{
+  "name": "serverless_dingding_alarm",
+  "version": "1.0.0",
+  "description": "钉钉告警中转server",
+  "main": "index_example.js",
+  "dependencies": {
+    "dingtalk-robot-sender": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyjblockchain/serverless_dingding_alarm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyjblockchain/serverless_dingding_alarm/issues"
+  },
+  "homepage": "https://github.com/zyjblockchain/serverless_dingding_alarm#readme"
+}
